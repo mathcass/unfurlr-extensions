@@ -1,0 +1,19 @@
+{
+  "name": "Unfurlr Extension",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "A simple link checking extension using MailChimp's Unfurlr application",
+  "background": {
+	"scripts": ["unfurlr.js"]
+  },
+  "permissions": [
+    "contextMenus"
+  ],
+  "icons": {
+	"16": "unfurlr-logo-16.png",
+	"32": "unfurlr-logo-32.png",
+	"48": "unfurlr-logo-48.png",
+	"64": "unfurlr-logo-64.png",
+	"128": "unfurlr-logo-128.png"
+  }
+}
