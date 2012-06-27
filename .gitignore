@@ -1,0 +1,8 @@
+*.pem
+*.crx
+
+# mac leave-behinds
+.DS_Store
+
+# vim sys files
+*.swp
